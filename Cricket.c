@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <string.h>
 struct Team {
     char name[20];
     int runs;
